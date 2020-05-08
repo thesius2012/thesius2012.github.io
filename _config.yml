@@ -99,4 +99,4 @@ theme: meilidu-hexo-master
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/thesius2012/thesius2012.github.io.git
+  repo: https://github.com/thesius2012/thesius2012.github.io
